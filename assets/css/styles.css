@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  margin-top: 50px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#signupLink {
+  color: #007bff;
+  cursor: pointer;
+}
